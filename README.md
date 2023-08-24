@@ -11,7 +11,7 @@ Hello, I'm Carlos! 👋
 
 💬 Ask me about: Full stack development, integrating DevOps principles, and crafting user-centric solutions. Whether it's Javascript, Reactjs, Nodejs, or any of the other myriad technologies I've worked with, I'm here to share and learn.
 
-📫 Reach me at: Linkedin Profile
+📫 Reach me at: https://www.linkedin.com/in/charlbarrera/
 
 😄 Pronouns: He/Him
 
